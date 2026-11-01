@@ -1,0 +1,22 @@
+# Virtual environment
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Secrets
+.env
+.env.*
+
+# Temporary files
+*.log
+*.tmp
+
+# Windows files
+Thumbs.db
+Desktop.ini
